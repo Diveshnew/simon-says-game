@@ -6,7 +6,7 @@ Welcome to the Simon Says game! This is a classic memory game where players need
 
 ## Demo
 
-You can play the game online at: [Play Simon Says](https://your-game-url-here.com)
+You can play the game online at: [Play Simon Says]([https://your-game-url-here.com](https://diveshnew.github.io/simon-says-game/))
 
 ## Features
 
@@ -25,7 +25,7 @@ You can play the game online at: [Play Simon Says](https://your-game-url-here.co
 
 ## How to Play
 
-1. Open the game in a browser by visiting [Play Simon Says](https://your-game-url-here.com).
+1. Open the game in a browser by visiting [Play Simon Says]([https://your-game-url-here.com](https://diveshnew.github.io/simon-says-game/)).
 2. Press the any Key on the keyboard to begin the game.
 3. Watch and listen as the computer plays a sequence of colored buttons.
 4. Repeat the sequence by clicking on the buttons in the same order.
@@ -43,9 +43,11 @@ You can play the game online at: [Play Simon Says](https://your-game-url-here.co
 2. Navigate to the project directory: `cd simon-says-game`
 3. Open `index.html` in your preferred web browser.
 
-## Acknowledgements
+## Acknowledgments
 
 - Inspired by the classic Simon game.
-
-
+- This Website was created as a part of [#100daysofcode] by [Divesh Dhek].
+- Inspiration for this project came from [Source/ Dr. Angela Yu's - web development course on Udemy].
 Have fun playing Simon Says and challenging your memory! If you have any questions or suggestions, feel free to open an issue or contribute to the project.
+
+Feel free to contact me at [workwithdivesh@gmail.com] for any questions or suggestions.
